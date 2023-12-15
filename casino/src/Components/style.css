@@ -1,0 +1,13 @@
+.navbar-bg {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: burlywood;
+}
+
+.navbar-text {
+    font-size: 30px;
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
